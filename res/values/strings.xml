@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="input_string">Zip or Location</string>
+    <string name="app_name">MyWeatherForcast</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_search">Search</string>
+    <string name="title_activity_display_message">MyMessage</string>
+	
+	<string name="app_id">563456910396865</string>
+	<string name="app_name">MyWeatherForecast</string>
+</resources>
